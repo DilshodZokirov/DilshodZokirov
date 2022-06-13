@@ -33,7 +33,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Zokirov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dilshodzokirov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/dilshodzokirov/github-readme-stats"><img alt="Zokirov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dilshodzokirov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Zokirov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshodzokirov&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -42,7 +42,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/DilshodZokirov/github-readme-activity-graph"><img alt="Zokirov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=narayanbavisetti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/DilshodZokirov/github-readme-activity-graph"><img alt="Zokirov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dilshodzokirov&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -59,7 +59,7 @@
 
 
 ## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DilshodZokirov/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
 
 © 2022 GitHub, Inc.
 Terms
