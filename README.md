@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img width="45%" height="auto" src="https://user-images.githubusercontent.com/72156168/130989446-dffc4c7e-3b3d-4177-a877-6c90e9d6e292.png" />
+  <img width="45%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4E03AQFkwEitB38QiA/profile-displayphoto-shrink_800_800/0/1651070598753?e=1660780800&v=beta&t=HLNjqG6fLNmrmXmG9FlfXlXH55rkaM5THvuOYXRclvg" />
   </p>
 <h1 align="center">Hi 👋, I'm Dilshod Zokirov</h1>
 <h3 align="center">A passionate developer from Uzbekistan</h3>
