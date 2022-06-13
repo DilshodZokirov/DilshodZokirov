@@ -5,10 +5,10 @@ A passionate developer from Uzbekistan
 
 
 Languages and Tools:
-bootstrap cplusplus css3 express firebase html5 javascript mongodb nodejs react
+bootstrap cplusplus css3 express firebase html5 postgresql mongodb nodejs python
 
 
-Narayan's streak
+Zokirov's streak
 
 
 
