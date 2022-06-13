@@ -17,7 +17,7 @@ bar_chart My Github Stats
 Zokirov's Github Stats Zokirov's Top Languages
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-Narayan's Activity Graph
+Zokirov's Activity Graph
 
 
 
