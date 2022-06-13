@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**DilshodZokirov/DilshodZokirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi wave, I'm Dilshod Zokirov
+A passionate developer from Uzbekistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Languages and Tools:
+bootstrap cplusplus css3 express firebase html5 javascript mongodb nodejs react
+
+
+Narayan's streak
+
+
+
+bar_chart My Github Stats
+
+Zokirov's Github Stats Zokirov's Top Languages
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+Narayan's Activity Graph
+
+
+
+Connect with me:
+   
+
+Watch my contribution graph eaten by the snakesnake
+snake gif
